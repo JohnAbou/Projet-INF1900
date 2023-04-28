@@ -1,0 +1,8 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/11.2.0/avr5/libgcc.a(_udivmodhi4.o)
+                              Led.o (__udivmodhi4)
+/usr/lib/gcc/avr/11.2.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/11.2.0/../../../../avr/lib/avr5/crtatmega324pa.o (exit)
+/usr/lib/gcc/avr/11.2.0/avr5/libgcc.a(_copy_data.o)
+                              memoire_24.o (__do_copy_data)

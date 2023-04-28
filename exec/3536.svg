@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1152 576">
+<text x="76" y="36" font-family="arial" font-size="25" fill="blue"> Section 05 -- Equipe 3536 -- Bin2Dec</text>
+<rect x="96" y="48" width="960" height="480" stroke="black" stroke-width="1" fill="white"/>
+<text x="96" y="564" font-family="arial" font-size="20" fill="blue">AIRE: "292" pouces carrees</text>
+<polygon points="302,233 302,343 632,233 302,123 412,233 522,123 " style="fill:green;stroke:black;stroke-width:3" />
+<rect x="191" y="123" width="5" height="5"/>
+<rect x="191" y="233" width="5" height="5"/>
+<rect x="191" y="343" width="5" height="5"/>
+<rect x="191" y="453" width="5" height="5"/>
+<rect x="301" y="123" width="5" height="5"/>
+<rect x="301" y="233" width="5" height="5"/>
+<rect x="301" y="343" width="5" height="5"/>
+<rect x="301" y="453" width="5" height="5"/>
+<rect x="411" y="123" width="5" height="5"/>
+<rect x="411" y="233" width="5" height="5"/>
+<rect x="411" y="343" width="5" height="5"/>
+<rect x="411" y="453" width="5" height="5"/>
+<rect x="521" y="123" width="5" height="5"/>
+<rect x="521" y="233" width="5" height="5"/>
+<rect x="521" y="343" width="5" height="5"/>
+<rect x="521" y="453" width="5" height="5"/>
+<rect x="631" y="123" width="5" height="5"/>
+<rect x="631" y="233" width="5" height="5"/>
+<rect x="631" y="343" width="5" height="5"/>
+<rect x="631" y="453" width="5" height="5"/>
+<rect x="741" y="123" width="5" height="5"/>
+<rect x="741" y="233" width="5" height="5"/>
+<rect x="741" y="343" width="5" height="5"/>
+<rect x="741" y="453" width="5" height="5"/>
+<rect x="851" y="123" width="5" height="5"/>
+<rect x="851" y="233" width="5" height="5"/>
+<rect x="851" y="343" width="5" height="5"/>
+<rect x="851" y="453" width="5" height="5"/>
+<rect x="961" y="123" width="5" height="5"/>
+<rect x="961" y="233" width="5" height="5"/>
+<rect x="961" y="343" width="5" height="5"/>
+<rect x="961" y="453" width="5" height="5"/>
+<rect x="191" y="453" width="5" height="5" fill="red"/>
+<circle cx="412" cy="233" r="10" stroke="black" stroke-width="4" fill="grey" />
+<circle cx="522" cy="123" r="10" stroke="black" stroke-width="4" fill="grey" />
+<circle cx="302" cy="233" r="10" stroke="black" stroke-width="4" fill="grey" />
+<circle cx="302" cy="343" r="10" stroke="black" stroke-width="4" fill="grey" />
+<circle cx="632" cy="233" r="10" stroke="black" stroke-width="4" fill="grey" />
+<circle cx="302" cy="123" r="10" stroke="black" stroke-width="4" fill="grey" />
+</svg>
